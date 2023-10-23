@@ -2,7 +2,7 @@
 
 int main(){
     printf ("%i\n",atoi_cs330("-4000"));
-    printf ("%i\n",atoi_cs330("0"));
+    printf ("%i\n",atoi_cs330(""));
     printf ("%i\n",atoi_cs330("123456789"));
     printf ("%i\n",atoi_cs330("0985762"));
     printf ("%i\n",atoi_cs330("1208493"));
